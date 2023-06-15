@@ -1,6 +1,4 @@
 # The Last Algorithms Course You'll Need - ThePrimeagen
 
-- [https://frontendmasters.com/courses/algorithms/big-o-time-complexity/](Link)
-- 9 hours
-
-- Last watching: [https://frontendmasters.com/courses/algorithms/bubble-sort/](go)
+- [Link to the course](https://frontendmasters.com/courses/algorithms/)
+- Already finished but I did not implement the last three videos about LRU
