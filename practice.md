@@ -22,4 +22,12 @@ That will be a Depth First Search algorithm because they preserve the shape of t
 
 
 ```
+### What's the time complexity of this operation?
+```js
+for (i = 1; i <= n; i = i + 1) {
+    for (j = 1; j <= n; i = j*2) {
+    }
+}
 
+    N.Log(N)
+```

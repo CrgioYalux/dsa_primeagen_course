@@ -8,5 +8,4 @@
 - [Data Structures](/DataStructures.md)
 - [Recursion](/Recursion.md)
 - [Algorithms](/algos.md)
-- [Examples](/examples.md)
 - [Practice](/practice.md)
